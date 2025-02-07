@@ -4,3 +4,7 @@ git status
 git commit -m "add line on archivo"
 git push
 git status
+
+git branch "Dev_JA"
+git checkout "Dev_JA"
+$ git push --set-upstream origin Dev_JA
