@@ -1,0 +1,6 @@
+git status
+git add .
+git status
+git commit -m "add line on archivo"
+git push
+git status
